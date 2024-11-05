@@ -21,10 +21,11 @@ client/node_modules/
 .env.*.local
 
 # Build output
-dist/
-build/
-client/build/
-client/dist/
+# Removed to allow dist folder to be tracked
+# dist/
+# build/
+# client/build/
+# client/dist/
 
 # Production
 client/.next/
